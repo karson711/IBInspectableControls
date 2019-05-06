@@ -1,0 +1,2 @@
+# IBInspectableControls
+自定义UITextView，可直接xib设置placeHolder，boarderColor，最大输入数右下角显示
